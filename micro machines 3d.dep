@@ -1,0 +1,135 @@
+# Microsoft Developer Studio Generated Dependency File, included by micro machines 3d.mak
+
+.\d3dapp.cpp : \
+	"..\..\..\..\mssdk\include\basetsd.h"\
+	"..\..\..\..\mssdk\include\d3d8.h"\
+	"..\..\..\..\mssdk\include\d3d8caps.h"\
+	"..\..\..\..\mssdk\include\d3d8types.h"\
+	"..\..\..\..\mssdk\include\d3dx8.h"\
+	"..\..\..\..\mssdk\include\d3dx8core.h"\
+	"..\..\..\..\mssdk\include\d3dx8effect.h"\
+	"..\..\..\..\mssdk\include\d3dx8math.h"\
+	"..\..\..\..\mssdk\include\d3dx8math.inl"\
+	"..\..\..\..\mssdk\include\d3dx8mesh.h"\
+	"..\..\..\..\mssdk\include\d3dx8shape.h"\
+	"..\..\..\..\mssdk\include\d3dx8tex.h"\
+	"..\..\..\..\mssdk\include\dxfile.h"\
+	".\d3dapp.h"\
+	".\d3dres.h"\
+	".\d3dutil.h"\
+	".\dxutil.h"\
+	
+
+.\d3dfont.cpp : \
+	"..\..\..\..\mssdk\include\basetsd.h"\
+	"..\..\..\..\mssdk\include\d3d8.h"\
+	"..\..\..\..\mssdk\include\d3d8caps.h"\
+	"..\..\..\..\mssdk\include\d3d8types.h"\
+	"..\..\..\..\mssdk\include\d3dx8.h"\
+	"..\..\..\..\mssdk\include\d3dx8core.h"\
+	"..\..\..\..\mssdk\include\d3dx8effect.h"\
+	"..\..\..\..\mssdk\include\d3dx8math.h"\
+	"..\..\..\..\mssdk\include\d3dx8math.inl"\
+	"..\..\..\..\mssdk\include\d3dx8mesh.h"\
+	"..\..\..\..\mssdk\include\d3dx8shape.h"\
+	"..\..\..\..\mssdk\include\d3dx8tex.h"\
+	"..\..\..\..\mssdk\include\dxfile.h"\
+	".\d3dfont.h"\
+	".\d3dutil.h"\
+	".\dxutil.h"\
+	
+
+.\d3dutil.cpp : \
+	"..\..\..\..\mssdk\include\basetsd.h"\
+	"..\..\..\..\mssdk\include\d3d8.h"\
+	"..\..\..\..\mssdk\include\d3d8caps.h"\
+	"..\..\..\..\mssdk\include\d3d8types.h"\
+	"..\..\..\..\mssdk\include\d3dx8.h"\
+	"..\..\..\..\mssdk\include\d3dx8core.h"\
+	"..\..\..\..\mssdk\include\d3dx8effect.h"\
+	"..\..\..\..\mssdk\include\d3dx8math.h"\
+	"..\..\..\..\mssdk\include\d3dx8math.inl"\
+	"..\..\..\..\mssdk\include\d3dx8mesh.h"\
+	"..\..\..\..\mssdk\include\d3dx8shape.h"\
+	"..\..\..\..\mssdk\include\d3dx8tex.h"\
+	"..\..\..\..\mssdk\include\dxfile.h"\
+	".\d3dutil.h"\
+	".\dxutil.h"\
+	
+
+.\dmutil.cpp : \
+	"..\..\..\..\mssdk\include\basetsd.h"\
+	"..\..\..\..\mssdk\include\dls1.h"\
+	"..\..\..\..\mssdk\include\dmdls.h"\
+	"..\..\..\..\mssdk\include\dmerror.h"\
+	"..\..\..\..\mssdk\include\dmplugin.h"\
+	"..\..\..\..\mssdk\include\dmusbuff.h"\
+	"..\..\..\..\mssdk\include\dmusicc.h"\
+	"..\..\..\..\mssdk\include\dmusici.h"\
+	"..\..\..\..\mssdk\include\dxerr8.h"\
+	".\dmutil.h"\
+	".\dxutil.h"\
+	
+
+.\dxutil.cpp : \
+	"..\..\..\..\mssdk\include\basetsd.h"\
+	".\dxutil.h"\
+	
+
+.\gamemenu.cpp : \
+	"..\..\..\..\mssdk\include\basetsd.h"\
+	"..\..\..\..\mssdk\include\d3d8.h"\
+	"..\..\..\..\mssdk\include\d3d8caps.h"\
+	"..\..\..\..\mssdk\include\d3d8types.h"\
+	"..\..\..\..\mssdk\include\d3dx8.h"\
+	"..\..\..\..\mssdk\include\d3dx8core.h"\
+	"..\..\..\..\mssdk\include\d3dx8effect.h"\
+	"..\..\..\..\mssdk\include\d3dx8math.h"\
+	"..\..\..\..\mssdk\include\d3dx8math.inl"\
+	"..\..\..\..\mssdk\include\d3dx8mesh.h"\
+	"..\..\..\..\mssdk\include\d3dx8shape.h"\
+	"..\..\..\..\mssdk\include\d3dx8tex.h"\
+	"..\..\..\..\mssdk\include\dxfile.h"\
+	".\d3dfont.h"\
+	".\d3dutil.h"\
+	".\gamemenu.h"\
+	
+
+".\micro machines 3d.cpp" : \
+	"..\..\..\..\mssdk\include\basetsd.h"\
+	"..\..\..\..\mssdk\include\d3d8.h"\
+	"..\..\..\..\mssdk\include\d3d8caps.h"\
+	"..\..\..\..\mssdk\include\d3d8types.h"\
+	"..\..\..\..\mssdk\include\d3dx8.h"\
+	"..\..\..\..\mssdk\include\d3dx8core.h"\
+	"..\..\..\..\mssdk\include\d3dx8effect.h"\
+	"..\..\..\..\mssdk\include\d3dx8math.h"\
+	"..\..\..\..\mssdk\include\d3dx8math.inl"\
+	"..\..\..\..\mssdk\include\d3dx8mesh.h"\
+	"..\..\..\..\mssdk\include\d3dx8shape.h"\
+	"..\..\..\..\mssdk\include\d3dx8tex.h"\
+	"..\..\..\..\mssdk\include\dls1.h"\
+	"..\..\..\..\mssdk\include\dmdls.h"\
+	"..\..\..\..\mssdk\include\dmerror.h"\
+	"..\..\..\..\mssdk\include\dmplugin.h"\
+	"..\..\..\..\mssdk\include\dmusbuff.h"\
+	"..\..\..\..\mssdk\include\dmusicc.h"\
+	"..\..\..\..\mssdk\include\dmusici.h"\
+	"..\..\..\..\mssdk\include\dxfile.h"\
+	".\3DUtils.h"\
+	".\computer.h"\
+	".\d3dapp.h"\
+	".\d3dfont.h"\
+	".\d3dutil.h"\
+	".\dmutil.h"\
+	".\dxutil.h"\
+	".\gamemenu.h"\
+	".\keyboard.h"\
+	".\MeshUtils.h"\
+	".\TextUtil.h"\
+	
+
+.\winmain.rc : \
+	".\Bitmaps\credits.bmp"\
+	".\Bitmaps\main_ico.ico"\
+	

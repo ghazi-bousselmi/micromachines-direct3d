@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "micro machines 3d", "micro machines 3d.vcproj", "{740F9C57-3873-4D0E-A0A1-5AC5ED9165F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{740F9C57-3873-4D0E-A0A1-5AC5ED9165F7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{740F9C57-3873-4D0E-A0A1-5AC5ED9165F7}.Debug|Win32.Build.0 = Debug|Win32
+		{740F9C57-3873-4D0E-A0A1-5AC5ED9165F7}.Release|Win32.ActiveCfg = Release|Win32
+		{740F9C57-3873-4D0E-A0A1-5AC5ED9165F7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
